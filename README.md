@@ -14,7 +14,7 @@ una vez activado el entorno instalamos las librerias:
   https://pypi.org/project/mediapipe/
 - Deepface( Modelos usados):
   Usar `pip install deepface` o
-  `conda install -c conda-forge deepface`
+  `conda install -c conda-forge deepface`  
   https://pypi.org/project/deepface/
 
 ## 3. Usar entorno en visual studio code
