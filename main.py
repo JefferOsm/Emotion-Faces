@@ -3,7 +3,7 @@ from deepface import DeepFace
 import cv2
 import mediapipe as mp
 
-# Declaramos la deteccion de rostros
+# Declaramos la deteccion de rostros (Usando MediaPipe)
 detros = mp.solutions.face_detection
 rostros = detros.FaceDetection(min_detection_confidence= 0.8, model_selection=0)
 # Dibujo
