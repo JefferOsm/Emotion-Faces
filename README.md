@@ -7,7 +7,7 @@ https://www.anaconda.com/download/
 - Activar entorno:  
   Usar `conda activate emotionFace`
 
-## 2. Instalacion de librerias en el entorno(en el entorno)
+## 2. Instalacion de librerias en el entorno
 una vez activado el entorno instalamos las librerias:  
 - Mediapipe(Para la deteccion de rostros):
   Usar `pip install mediapipe` o `conda install -c conda-forge mediapipe`    
