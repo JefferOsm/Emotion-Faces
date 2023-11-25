@@ -5,5 +5,6 @@ https://www.anaconda.com/download/
 
 # Librerias usadas (Instalar en el entorno)
 pip install mediapipe  
-pip install deepface
+pip install deepface  
 
+si no se tiene webcam para probar, modificar cap = cv2.VideoCapture("ruta de uno de los videos carpeta videotest")
