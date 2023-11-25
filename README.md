@@ -10,7 +10,7 @@ https://www.anaconda.com/download/
 ## 2. Instalacion de librerias en el entorno(en el entorno)
 una vez activado el entorno instalamos las librerias:  
 - Mediapipe(Para la deteccion de rostros):
-  Usar `pip install mediapipe`
+  Usar `pip install mediapipe` o `conda install -c conda-forge mediapipe`    
   https://pypi.org/project/mediapipe/
 - Deepface( Modelos usados):
   Usar `pip install deepface` o
